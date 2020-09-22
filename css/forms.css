@@ -21,6 +21,12 @@ body {
   background-color: #efb106;
 }
 
+h1,
+h3,
+legend {
+  font-family: "Architects Daughter", cursive;
+}
+
 section {
   flex-basis: 57%;
   margin-right: 10%;
